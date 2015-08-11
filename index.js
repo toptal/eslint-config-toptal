@@ -4,6 +4,8 @@ module.exports = {
     "no-console": 0,
     // Best Practices
     "dot-location": [2, "property"],
+    "no-implicit-coercion": [2, {"boolean": true}],
+    "no-invalid-this": 2,
     "no-self-compare": 2,
     "radix": 2,
     "wrap-iife": 2,
@@ -31,6 +33,10 @@ module.exports = {
     "space-in-parens": [2, "never"],
     "spaced-comment": [2, "always"],
     // ECMAScript 6
+    "arrow-parens": [2, "always"],
+    "arrow-spacing": 2,
+    "no-class-assign": 2,
+    "no-const-assign": 2,
     "no-this-before-super": 2,
     "no-var": 2,
     "object-shorthand": [2, "always"],
