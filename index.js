@@ -4,7 +4,7 @@ module.exports = {
     "no-console": 0,
     // Best Practices
     "dot-location": [2, "property"],
-    "no-implicit-coercion": [2, {"boolean": true}],
+    "no-implicit-coercion": [2, {"boolean": false}],
     "no-invalid-this": 2,
     "no-self-compare": 2,
     "radix": 2,
