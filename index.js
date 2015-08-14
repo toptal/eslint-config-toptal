@@ -7,7 +7,7 @@ module.exports = {
     "no-implicit-coercion": [2, {"boolean": true}],
     "no-invalid-this": 2,
     "no-self-compare": 2,
-    "radix": 2,
+    "radix": 0,
     "wrap-iife": 2,
     // Stylistic Issues
     "array-bracket-spacing": [2, "never"],
