@@ -24,7 +24,7 @@ module.exports = {
     "object-curly-spacing": [2, "never"],
     "operator-assignment": [2, "always"],
     "operator-linebreak": [2, "after"],
-    "padded-blocks": [2, "never"],
+    "padded-blocks": 0,
     "quotes": [2, "single", "avoid-escape"],
     "semi": [2, "never"],
     "space-after-keywords": [2, "always"],
