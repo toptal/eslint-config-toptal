@@ -5,7 +5,7 @@ module.exports = {
     // Best Practices
     "dot-location": [2, "property"],
     "no-implicit-coercion": [2, {"boolean": true}],
-    "no-invalid-this": 0,
+    "no-invalid-this": 2,
     "no-self-compare": 2,
     "radix": 2,
     "wrap-iife": 2,
