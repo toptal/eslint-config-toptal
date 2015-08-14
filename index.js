@@ -15,7 +15,7 @@ module.exports = {
     "comma-style": [2, "last"],
     "computed-property-spacing": [2, "never"],
     "dot-notation": [2, {"allowPattern": "^[a-z]+(_[a-z]+)+$"}],
-    "indent": [2, 2],
+    "indent": [2, 2, {"SwitchCase": 1}],
     "linebreak-style": [2, "unix"],
     "no-multiple-empty-lines": [2, {"max": 1}],
     "no-nested-ternary": 2,
