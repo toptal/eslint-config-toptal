@@ -21,7 +21,7 @@ module.exports = {
     "no-nested-ternary": 2,
     "no-underscore-dangle": 0,
     "no-unneeded-ternary": 2,
-    "object-curly-spacing": [2, "never"],
+    "object-curly-spacing": [2, "always"],
     "operator-assignment": [2, "always"],
     "operator-linebreak": [2, "after"],
     "padded-blocks": [2, "never"],
