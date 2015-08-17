@@ -14,7 +14,7 @@ module.exports = {
     "brace-style": [2, "1tbs", {"allowSingleLine": true}],
     "comma-style": [2, "last"],
     "computed-property-spacing": [2, "never"],
-    "dot-notation": [2, {"allowPattern": "^[a-z]+(_[a-z]+)+$"}],
+    "dot-notation": 0,
     "indent": [2, 2],
     "linebreak-style": [2, "unix"],
     "no-multiple-empty-lines": [2, {"max": 1}],
