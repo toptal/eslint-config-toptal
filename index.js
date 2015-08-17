@@ -23,7 +23,7 @@ module.exports = {
     "no-unneeded-ternary": 2,
     "object-curly-spacing": [2, "never"],
     "operator-assignment": [2, "always"],
-    "operator-linebreak": [2, "after"],
+    "operator-linebreak": [2, "before"],
     "padded-blocks": [2, "never"],
     "quotes": [2, "single", "avoid-escape"],
     "semi": [2, "never"],
