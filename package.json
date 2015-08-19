@@ -1,11 +1,13 @@
 {
   "name": "eslint-config-toptal",
-  "version": "0.0.1",
-  "description": "ESLint Config",
+  "version": "0.1.0",
+  "description": "Shared ESLint config for Toptal projects",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": ""
+  "contributors": [
+    "Sergey Nartimov <sergey.nartimov@toptal.com>",
+    "Alexander Afonasiev <alex.afonasev@toptal.com>",
+    "Sasha Koss <sasha@toptal.com>"
+  ],
+  "license": "MIT"
 }
+
