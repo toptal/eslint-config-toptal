@@ -2,6 +2,8 @@ module.exports = {
   rules: {
     // Possible Errors
     "no-console": 0,
+    // Prevent errors due to ommited semicolons
+    "no-unexpected-multiline": 2,
     // Best Practices
     "dot-location": [2, "property"],
     "no-implicit-coercion": [2, {"boolean": false}],
