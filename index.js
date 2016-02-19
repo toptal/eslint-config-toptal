@@ -29,7 +29,7 @@ module.exports = {
     "padded-blocks": [2, "never"],
     "quotes": [2, "single", "avoid-escape"],
     "semi": [2, "never"],
-    "space-after-keywords": [2, "always"],
+    "keyword-spacing": 2,
     "space-before-blocks": [2, "always"],
     "space-before-function-paren": [2, "never"],
     "space-in-parens": [2, "never"],
