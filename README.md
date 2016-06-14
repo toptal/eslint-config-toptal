@@ -1,5 +1,7 @@
 # ESLint Config
 
+**Warning! ESLint config is deprecated in favor of [JavaScript Standard Style](http://standardjs.com/)**.
+
 Install `eslint-config-toptal` package:
 
 ```shell
